@@ -10,3 +10,15 @@
 - Adicionamos a imagem de fundo e ajustamos o layout inicial.  
  
 <img src="https://github.com/user-attachments/assets/99623e73-209a-458e-9e7a-416c6cfbde1f" width="500">
+
+---
+
+## 📅 Dia 2  
+
+- Implementamos **fontes do Google Fonts** para melhorar a tipografia do projeto.  
+- Criamos uma **segunda tela** para expandir a experiência do usuário.  
+- Evoluímos o **HTML e CSS**, tornando o código mais organizado e semântico. 
+- Ajustamos o **design e espaçamentos** para maior fluidez visual.
+
+<img src="https://github.com/user-attachments/assets/2400e0a0-1e56-44fa-8d9e-88c2062a24f5" width="500">
+<img src="https://github.com/user-attachments/assets/07efaaba-4fde-4009-99ab-23c370388824" width="500">
