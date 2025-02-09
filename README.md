@@ -34,4 +34,12 @@
 <img src="https://github.com/user-attachments/assets/e251ceef-d8e5-4022-8b99-8ba144f183ff" width="500">
 <img src="https://github.com/user-attachments/assets/48cdec21-906c-4a4a-9458-e603b697fece" width="500">
 
+---
 
+## 📅 Dia 4
+
+- Criamos a seção com **dispositivos compatíveis** e imagens para melhorar a acessibilidade.
+- Desenvolvemos a lista de dispositivos e ajustamos o **HTML** e **CSS** para organização e formatação.
+- Implementamos o **rodapé** da página, garantindo responsividade e integração com o restante do conteúdo.
+  
+<img src="https://github.com/user-attachments/assets/cb039d5a-afeb-4f63-9656-60655e1ab6dd" width="500">
